@@ -2,6 +2,8 @@
 
 > **A hands-on laboratory for mastering Python Full Stack Development through structured learning, experiments, practical exercises, and real-world implementation.**
 
+> **We will never learn a technology just to use it. We will learn why it exists, what problem it solves, how it works internally, and then implement it with purpose.**
+
 ---
 
 # About This Repository
